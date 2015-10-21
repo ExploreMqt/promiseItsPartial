@@ -1,0 +1,19 @@
+{
+  "name": "promise_its_partial",
+  "version": "1.0.0",
+  "description": "Partial application and Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Argeropoulos",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "chai-spies": "^0.7.1",
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
